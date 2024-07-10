@@ -8,7 +8,7 @@ This application uses machine learning techniques to classify emails as either s
    Cleans and preprocesses the input email text by removing special characters, stopwords, and applying stemming.
 
 2. **Machine Learning Model:**
-   Uses a logistic regression model trained on a dataset of pre-labeled emails.
+   Logistic Regression,random forest classifier, adaboosting classifier, knn 
 
 3. **Prediction:**
    Displays the prediction result (spam or not spam) based on the input email text.

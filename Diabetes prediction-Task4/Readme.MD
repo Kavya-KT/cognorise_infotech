@@ -1,11 +1,5 @@
 # Diabetes Prediction App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/diabetes-prediction-app)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/diabetes-prediction-app)
-![GitHub stars](https://img.shields.io/github/stars/your-username/diabetes-prediction-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/diabetes-prediction-app?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)
-
 This web application predicts the likelihood of diabetes based on input features such as age, gender, medical history, BMI, and blood glucose levels. It utilizes machine learning models trained on a diabetes prediction dataset.
 
 ## Features

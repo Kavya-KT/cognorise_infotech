@@ -23,10 +23,6 @@ This web application predicts the likelihood of diabetes based on input features
 - **Scikit-learn**: Machine learning library in Python used for model training, evaluation, and preprocessing.
 - **Pandas**: Python library for data manipulation and preprocessing.
 
-## Dataset
-
-- The dataset used for training the model can be found [here](link-to-your-dataset).
-- It includes features such as age, gender, BMI, hypertension, heart disease, smoking history, HbA1c level, and blood glucose level.
 
 ## Model Deployment
 

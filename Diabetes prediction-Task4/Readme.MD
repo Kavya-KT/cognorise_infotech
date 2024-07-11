@@ -15,14 +15,6 @@ This web application predicts the likelihood of diabetes based on input features
 - **HbA1c Level**: Numeric input for HbA1c (glycated hemoglobin) level.
 - **Blood Glucose Level**: Numeric input for blood glucose level.
 
-### Navigation
-
-- Sidebar navigation for easy access to information about symptoms, complications, management, prevention, dataset, and Google Colab notebook.
-
-### Prediction
-
-- Clicking the "Check Diabetics" button predicts whether the individual has diabetes based on the input features.
-
 ## Technologies Used
 
 - **Python**: Main programming language used for backend logic and model deployment.
